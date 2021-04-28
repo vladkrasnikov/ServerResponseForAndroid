@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConnectServ</string>
+    <string name="send">Send</string>
+    <string name="stop">Stop</string>
+</resources>
